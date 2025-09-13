@@ -8,6 +8,7 @@ sync.browser.yandex.net
 top-fwz1.mail.ru
 eh.vk.com
 akashi.vk-portal.net
+id.sber.ru
 sun9-38.userapi.com
 sun6-21.userapi.com
 st.ozone.ru
