@@ -4,6 +4,7 @@ sun6-21.userapi.com
 sun6-20.userapi.com
 avatars.mds.yandex.net
 queuev4.vk.com
+www.sberbank.ru
 sync.browser.yandex.net
 top-fwz1.mail.ru
 cms-res-web.online.sberbank.ru
