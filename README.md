@@ -1,5 +1,7 @@
 # russia mobile internet whitelist
 
+[![Discord](https://img.shields.io/discord/1282083082849091615?style=flat-square)](https://discord.gg/QPBdMf8dxG)
+
 🇺🇸 a list of domains that stay live in russia when the mobile internet gets "restricted".
 <br>
 🇷🇺 список доменов, которые остаются доступными в россии, когда мобильный интернет "ограничивают".
