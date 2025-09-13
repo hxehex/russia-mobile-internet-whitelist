@@ -3,6 +3,7 @@ stats.vk-portal.net
 cdn.tbank.ru
 sun6-21.userapi.com
 sber.cdnvideo.ru
+cobrowsing.tbank.ru
 sun6-20.userapi.com
 avatars.mds.yandex.net
 svi.online.sberbank.ru
