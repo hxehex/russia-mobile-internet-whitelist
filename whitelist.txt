@@ -4,6 +4,7 @@ sun6-21.userapi.com
 sber.cdnvideo.ru
 sun6-20.userapi.com
 avatars.mds.yandex.net
+svi.online.sberbank.ru
 queuev4.vk.com
 www.sberbank.ru
 sync.browser.yandex.net
