@@ -1,5 +1,6 @@
 sun6-22.userapi.com
 stats.vk-portal.net
+cdn.tbank.ru
 sun6-21.userapi.com
 sber.cdnvideo.ru
 sun6-20.userapi.com
