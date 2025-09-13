@@ -4,6 +4,7 @@ mediafeeds.yandex.ru
 cdn.tbank.ru
 sun6-21.userapi.com
 hrc.tbank.ru
+static.rutube.ru
 sber.cdnvideo.ru
 cobrowsing.tbank.ru
 sun6-20.userapi.com
