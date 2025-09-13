@@ -17,6 +17,7 @@ io.ozone.ru
 xapi.ozon.ru
 top-fwz1.mail.ru
 strm-rad-23.strm.yandex.net
+strm.yandex.net
 online.sberbank.ru
 esa-res.online.sberbank.ru
 egress.yandex.net
