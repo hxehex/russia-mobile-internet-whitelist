@@ -9,6 +9,7 @@ cobrowsing.tbank.ru
 sun6-20.userapi.com
 avatars.mds.yandex.net
 mc.yandex.ru
+yandex.net
 svi.online.sberbank.ru
 le.tbank.ru
 queuev4.vk.com
