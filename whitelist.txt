@@ -6,6 +6,7 @@ avatars.mds.yandex.net
 queuev4.vk.com
 sync.browser.yandex.net
 top-fwz1.mail.ru
+cms-res-web.online.sberbank.ru
 eh.vk.com
 akashi.vk-portal.net
 id.sber.ru
