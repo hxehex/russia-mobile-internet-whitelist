@@ -7,6 +7,7 @@ queuev4.vk.com
 www.sberbank.ru
 sync.browser.yandex.net
 top-fwz1.mail.ru
+sberbank.ru
 cms-res-web.online.sberbank.ru
 eh.vk.com
 akashi.vk-portal.net
