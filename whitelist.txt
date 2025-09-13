@@ -8,6 +8,7 @@ static.rutube.ru
 sber.cdnvideo.ru
 cobrowsing.tbank.ru
 sun6-20.userapi.com
+ssp.rutube.ru
 preview.rutube.ru
 avatars.mds.yandex.net
 mc.yandex.ru
