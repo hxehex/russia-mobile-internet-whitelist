@@ -1,5 +1,6 @@
 sun6-22.userapi.com
 stats.vk-portal.net
+mediafeeds.yandex.ru
 cdn.tbank.ru
 sun6-21.userapi.com
 hrc.tbank.ru
