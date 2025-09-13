@@ -1,2 +1,2 @@
 # russia-mobile-internet-whitelist
-list of domains that are whitelisted** on the territory of Russian Federation
+list of (sub*)domains that are whitelisted** on the territory of Russian Federation
