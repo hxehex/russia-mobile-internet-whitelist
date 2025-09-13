@@ -12,6 +12,7 @@ mc.yandex.ru
 svi.online.sberbank.ru
 le.tbank.ru
 queuev4.vk.com
+yandex.ru
 www.sberbank.ru
 id.tbank.ru
 sync.browser.yandex.net
