@@ -10,6 +10,7 @@ avatars.mds.yandex.net
 svi.online.sberbank.ru
 queuev4.vk.com
 www.sberbank.ru
+id.tbank.ru
 sync.browser.yandex.net
 top-fwz1.mail.ru
 sberbank.ru
