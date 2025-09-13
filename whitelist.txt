@@ -41,6 +41,7 @@ s3.t2.ru
 dzen.ru
 yastatic.net
 csp.yandex.net
+cdnrhkgfkkpupuotntfj.svc.cdn.yandex.net
 sntr.avito.ru
 yabro-wbplugin.edadeal.yandex.ru
 goya.rutube.ru
