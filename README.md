@@ -18,6 +18,9 @@ russia's mobile internet sometimes just gets "turned off" — a fancy way of say
 
 the full list of (sub)domains is in `whitelist.txt`. also it gets regularly updated by myself.
 
+#### ⚠️ CAUTION
+a provider named "Beeline" forces its own whitelist and none (sub)domains listed by me may work. if you are a user of "Beeline", it's easier to just switch off to another providers like "t2" (tele2, the best), "mts" (mid), or even "megafon" (the worst from this list).
+
 > **[view the whitelist](./whitelist.txt)**
 
 #### use case: vless(trojan)+reality sni spoofing
@@ -39,6 +42,9 @@ found a domain that works? or one on the list that's dead? [open an issue](https
 #### "белый" список
 
 полный список (саб)доменов находится в файле `whitelist.txt`. так же он регулярно пополняется лично мной.
+
+#### ⚠️ ПРЕДУПРЕЖДЕНИЕ
+провайдер под названием "Билайн" составляет свой личный вайтлист список и список моих саб(доменов) могут не работать у вас ни при каких обстоятельствах. решением будет просто сменить провайдера, например на "т2" (теле2, самый лучший), мтс (такое себе), или даже мегафон (залупа полная).
 
 > **[посмотреть "белый" список](./whitelist.txt)**
 
