@@ -16,6 +16,7 @@ yandex.net
 favicon.yandex.ru
 favicon.yandex.com
 favicon.yandex.net
+gu-st.ru
 browser.yandex.com
 api.browser.yandex.com
 wap.yandex.com
