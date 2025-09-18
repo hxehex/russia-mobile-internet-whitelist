@@ -5,6 +5,7 @@ cdn.tbank.ru
 sun6-21.userapi.com
 hrc.tbank.ru
 static.rutube.ru
+kiks.yandex.ru
 sber.cdnvideo.ru
 cobrowsing.tbank.ru
 sun6-20.userapi.com
@@ -13,6 +14,7 @@ preview.rutube.ru
 avatars.mds.yandex.net
 mc.yandex.ru
 yandex.net
+yabs.yandex.ru
 3475482542.mc.yandex.ru
 goya.rutube.ru
 pic.rutubelist.ru
