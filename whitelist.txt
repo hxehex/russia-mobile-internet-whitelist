@@ -13,6 +13,7 @@ preview.rutube.ru
 st-ok.cdn-vk.ru
 avatars.mds.yandex.net
 mc.yandex.ru
+frontend.vh.yandex.ru
 yandex.net
 favicon.yandex.ru
 favicon.yandex.com
