@@ -10,6 +10,7 @@ cobrowsing.tbank.ru
 sun6-20.userapi.com
 ssp.rutube.ru
 preview.rutube.ru
+st-ok.cdn-vk.ru
 avatars.mds.yandex.net
 mc.yandex.ru
 yandex.net
@@ -21,6 +22,7 @@ browser.yandex.com
 api.browser.yandex.com
 wap.yandex.com
 kiks.yandex.com
+rs.mail.ru
 yandex.com
 mediafeeds.yandex.com
 avatars.mds.yandex.com
