@@ -13,6 +13,13 @@ preview.rutube.ru
 st-ok.cdn-vk.ru
 avatars.mds.yandex.net
 mc.yandex.ru
+cdn.lemanapro.ru
+dmp.dmpkit.lemanapro.ru
+receive-sentry.lmru.tech
+partners.lemanapro.ru
+
+static.lemanapro.ru
+lemanapro.ru
 frontend.vh.yandex.ru
 yandex.net
 favicon.yandex.ru
