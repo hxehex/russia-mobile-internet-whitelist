@@ -13,11 +13,16 @@ preview.rutube.ru
 st-ok.cdn-vk.ru
 avatars.mds.yandex.net
 mc.yandex.ru
+www.vtb.ru
+chat3.vtb.ru
+s.vtb.ru
+sso-app4.vtb.ru
+sso-app5.vtb.ru
 cdn.lemanapro.ru
 dmp.dmpkit.lemanapro.ru
 receive-sentry.lmru.tech
 partners.lemanapro.ru
-
+metrics.alfabank.ru
 static.lemanapro.ru
 lemanapro.ru
 frontend.vh.yandex.ru
@@ -126,8 +131,7 @@ chat-prod.wildberries.ru
 id.vk.ru
 surveys.yandex.ru
 alfabank.ru
-alfabank.servicecdn.ru
-alfabank.st
+pl-res.online.sberbank.ru
 privacy-cs.mail.ru
 disk.2gis.com
 imgproxy.cdn-tinkoff.ru
@@ -145,6 +149,7 @@ tile1.maps.2gis.com
 tile2.maps.2gis.com
 tile3.maps.2gis.com
 tile4.maps.2gis.com
+bfds.sberbank.ru
 api.photo.2gis.com
 www.t2.ru
 msk.t2.ru
