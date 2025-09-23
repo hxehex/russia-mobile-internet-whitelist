@@ -56,6 +56,7 @@ mail.yandex.com
 yabs.yandex.ru
 neuro.translate.yandex.ru
 cloud.cdn.yandex.ru
+ws-api.oneme.ru
 cdn.yandex.ru
 3475482542.mc.yandex.ru
 ads.vk.ru
