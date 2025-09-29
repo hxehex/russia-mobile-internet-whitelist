@@ -10,6 +10,11 @@ sun6-20.userapi.com
 ssp.rutube.ru
 preview.rutube.ru
 st-ok.cdn-vk.ru
+www.rzd.ru
+team.rzd.ru
+contacts.rzd.ru
+cargo.rzd.ru
+company.rzd.ru
 avatars.mds.yandex.net
 mc.yandex.ru
 www.vtb.ru
