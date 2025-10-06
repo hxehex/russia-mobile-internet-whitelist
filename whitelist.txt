@@ -63,6 +63,7 @@ api-maps.yandex.ru
 enterprise.api-maps.yandex.ru
 dzen.ru
 300.ya.ru
+ya.ru
 brontp-pre.yandex.ru
 suggest.dzen.ru
 dr2.yandex.net
@@ -160,6 +161,8 @@ sba.yandex.ru
 sba.yandex.com
 sba.yandex.net
 login.vk.com
+cloud.vk.com
+cloud.vk.ru
 api.2gis.ru
 keys.api.2gis.com
 favorites.api.2gis.com
@@ -326,3 +329,7 @@ s1.bss.2gis.com
 97.img.avito.st
 98.img.avito.st
 99.img.avito.st
+a.res-nsdi.ru
+b.res-nsdi.ru
+a.auth-nsdi.ru
+b.auth-nsdi.ru
