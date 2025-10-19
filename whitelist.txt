@@ -2,6 +2,10 @@ sun6-22.userapi.com
 stats.vk-portal.net
 mediafeeds.yandex.ru
 cdn.tbank.ru
+uslugi.yandex.ru
+auto.ru
+http-check-headers.yandex.ru
+sso.auto.ru
 hrc.tbank.ru
 static.rutube.ru
 kiks.yandex.ru
