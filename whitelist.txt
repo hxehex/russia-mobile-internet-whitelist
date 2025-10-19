@@ -4,6 +4,10 @@ admin.tau.vk.ru
 analytics.vk.ru
 api.cs7777.vk.ru
 api.tau.vk.ru
+fw.wb.ru
+finance.wb.ru
+jitsi.wb.ru
+dnd.wb.ru
 live.ok.ru
 m.ok.ru
 api.ok.ru
