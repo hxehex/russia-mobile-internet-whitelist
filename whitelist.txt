@@ -5,6 +5,7 @@ analytics.vk.ru
 api.cs7777.vk.ru
 api.tau.vk.ru
 dating.ok.ru
+tamtam.ok.ru
 away.cs7777.vk.ru
 away.tau.vk.ru
 business.vk.ru
