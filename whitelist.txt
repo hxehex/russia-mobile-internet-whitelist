@@ -1,4 +1,6 @@
 sun6-22.userapi.com
+pptest.userapi.com
+sun9-101.userapi.com
 travel.yandex.ru
 trk.mail.ru
 1l-api.mail.ru
