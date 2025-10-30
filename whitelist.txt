@@ -1,5 +1,8 @@
 sun6-22.userapi.com
 travel.yandex.ru
+informer.yandex.ru
+digital.gov.ru
+adm.digital.gov.ru
 travel.yastatic.net
 api.uxfeedback.yandex.net
 api.s3.yandex.net
