@@ -8,6 +8,8 @@ learning.ozon.ru
 mapi.learning.ozon.ru
 ws.seller.ozon.ru
 bank.ozon.ru
+www.cikrf.ru
+izbirkom.ru
 seller.ozon.ru
 pay.ozon.ru
 securepay.ozon.ru
