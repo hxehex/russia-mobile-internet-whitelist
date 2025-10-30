@@ -1,6 +1,8 @@
 sun6-22.userapi.com
 travel.yandex.ru
 travel.yastatic.net
+api.uxfeedback.yandex.net
+uxfeedback.yandex.ru
 cloudcdn-m9-15.cdn.yandex.net
 cloudcdn-m9-14.cdn.yandex.net
 cloudcdn-m9-13.cdn.yandex.net
