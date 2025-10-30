@@ -12,6 +12,8 @@ seller.ozon.ru
 pay.ozon.ru
 securepay.ozon.ru
 adv.ozon.ru
+voter.gosuslugi.ru
+gosweb.gosuslugi.ru
 invest.ozon.ru
 ord.ozon.ru
 autodiscover.ord.ozon.ru
