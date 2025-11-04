@@ -4,7 +4,11 @@ sun9-101.userapi.com
 travel.yandex.ru
 trk.mail.ru
 1l-api.mail.ru
-smarttv.plus.tst.kinopoisk.ru
+crowdtest.payment-widget-smarttv.plus.tst.kinopoisk.ru
+external-api.mediabilling.kinopoisk.ru
+external-api.plus.kinopoisk.ru
+graphql-web.kinopoisk.ru
+graphql.kinopoisk.ru
 1l.mail.ru
 tickets.widget.kinopoisk.ru
 st.kinopoisk.ru
