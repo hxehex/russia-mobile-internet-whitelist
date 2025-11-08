@@ -89,3 +89,16 @@ found a domain that works? or is one on the list dead? [open an issue](https://g
 ### 🇺🇸 license | 🇷🇺 лицензия
 
 mit
+
+---
+
+### 🍺🍺🍺
+
+<sup>BTC</sup>
+<sub>`bc1qg535zuhkm3wx56tld3vxu9e5qdut0hn9mdrqyq`</sub>
+
+<sup>TON / USDT (TON Network)</sup>
+<sub>`UQDo1VvdYK69QrWj8XrwXwPIniDGI4QlplGjlXb2Nkz1WOI1`</sub>
+
+<sup>ETH (ERC-20)</sup>
+<sub>`0x4bF16e83095f8493a830bf1b2d9348cc32246c5A`</sub>
