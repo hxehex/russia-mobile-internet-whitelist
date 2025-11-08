@@ -102,3 +102,13 @@ mit
 
 <sup>ETH (ERC-20)</sup>
 <sub>`0x4bF16e83095f8493a830bf1b2d9348cc32246c5A`</sub>
+
+### ⭐⭐⭐
+
+<a href="https://www.star-history.com/#hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left" />
+ </picture>
+</a>
