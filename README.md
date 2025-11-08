@@ -1,6 +1,6 @@
 # russia mobile internet whitelist
 
-[![discord](https://img.shields.io/discord/1282083082849091615?style=flat-square)](https://discord.gg/qpbdf8dxgg)
+[![discord](https://img.shields.io/discord/1282083082849091615?style=flat-square)](https://discord.gg/QPBdMf8dxG)
 
 🇺🇸 a list of domains that stay live in russia when the mobile internet gets "restricted".
 <br>
