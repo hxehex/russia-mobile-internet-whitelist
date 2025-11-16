@@ -1,6 +1,6 @@
 # russia mobile internet whitelist
 
-[![discord](https://img.shields.io/discord/1282083082849091615?style=flat-square)](https://discord.gg/QPBdMf8dxG)
+<p align="center"><b>🇺🇸 please, star this repository so more people can see it.<br>🇷🇺 пожалуйста, поставьте звезду этому репозиторию, чтобы больше людей увидели его.</b><br><br><em>🇺🇸 discord server to ask help in, random questions, shitposting, and more.</em><br><em>🇷🇺 дискорд сервер для помощи, рандомных вопросов, щитпостинга, и т.д.</em><br><br><a href="https://discord.gg/QPBdMf8dxG"><img src="https://img.shields.io/discord/1282083082849091615?style=for-the-badge&logo=discord" alt="discord"></a></p>
 
 🇺🇸 a list of domains and ips that stay live in russia when the mobile internet gets "restricted".
 <br>
@@ -113,10 +113,4 @@ mit
 
 ### ⭐⭐⭐
 
-<a href="https://www.star-history.com/#hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left" />
- </picture>
-</a>
+<a href="https://www.star-history.com/#hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&theme=dark&legend=top-left" /><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left" /><img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left" /></picture></a>
