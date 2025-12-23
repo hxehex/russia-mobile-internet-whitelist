@@ -103,13 +103,13 @@ mit
 ### 🍺🍺🍺
 
 <sup>BTC</sup>
-<sub>`bc1qg535zuhkm3wx56tld3vxu9e5qdut0hn9mdrqyq`</sub>
+<sub>`bc1q5cws5mx9x784kwn3zj6uz0q9cvdpj65lzenv6v`</sub>
 
-<sup>TON / USDT (TON Network)</sup>
-<sub>`UQDo1VvdYK69QrWj8XrwXwPIniDGI4QlplGjlXb2Nkz1WOI1`</sub>
+<sup>SOL</sup>
+<sub>`5iB8p3tMEtAQ1qaCJNHyd5Fm74DsT6qjud9Gg7TAMr5T`</sub>
 
-<sup>ETH (ERC-20)</sup>
-<sub>`0x4bF16e83095f8493a830bf1b2d9348cc32246c5A`</sub>
+<sup>ETH</sup>
+<sub>`0x98e52948c78707b2003deb550a63a4705afccc1a`</sub>
 
 ### ⭐⭐⭐
 
