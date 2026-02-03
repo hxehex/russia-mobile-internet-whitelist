@@ -189,17 +189,21 @@ mit
 
 ---
 
-### 🍺🍺🍺
+### 🍺🍺🍺 donations
 
 <sup>BTC</sup>
-<sub>`bc1q5cws5mx9x784kwn3zj6uz0q9cvdpj65lzenv6v`</sub>
+`bc1q5cws5mx9x784kwn3zj6uz0q9cvdpj65lzenv6v`
 
 <sup>SOL</sup>
-<sub>`5iB8p3tMEtAQ1qaCJNHyd5Fm74DsT6qjud9Gg7TAMr5T`</sub>
+`5iB8p3tMEtAQ1qaCJNHyd5Fm74DsT6qjud9Gg7TAMr5T`
 
 <sup>ETH</sup>
-<sub>`0x98e52948c78707b2003deb550a63a4705afccc1a`</sub>
+`0x98e52948c78707b2003deb550a63a4705afccc1a`
 
-### ⭐⭐⭐
+<a href="https://nowpayments.io/donation/hxehex" target="_blank" rel="noreferrer noopener">
+   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Cryptocurrency & Bitcoin donation button by NOWPayments">
+</a>
+
+### ⭐⭐⭐ star history
 
 <a href="https://www.star-history.com/#hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&theme=dark&legend=top-left" /><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left" /><img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left" /></picture></a>
