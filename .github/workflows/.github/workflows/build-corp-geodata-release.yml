@@ -1,0 +1,124 @@
+name: Build corp geodata (.dat) and publish Release
+
+on:
+  push:
+    branches: [ "main" ]
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.22.x"
+          cache: true
+
+      - name: Prepare input
+        shell: bash
+        run: |
+          set -euo pipefail
+          # Проверяем наличие оригинальных файлов из репозитория hxehex
+          test -f whitelist.txt
+          test -f ipwhitelist.txt
+          test -f cidrwhitelist.txt
+
+          mkdir -p build
+          # Сливаем IP и CIDR в один список:
+          cat ipwhitelist.txt cidrwhitelist.txt > build/ipcidr.txt
+
+          # Создаем структуру папок для geosite:
+          mkdir -p build/dlc-data/data
+
+          # Конвертируем список доменов
+          awk '
+            BEGIN { FS=""; }
+            /^[[:space:]]*$/ { next }
+            /^[[:space:]]*#/ { next }
+            /^[[:space:]]*\/\// { next }
+            { gsub(/^[[:space:]]+|[[:space:]]+$/, "", $0); }
+            {
+              if ($0 ~ /^(domain:|full:|keyword:|regexp:)/) print $0;
+              else print "domain:" $0;
+            }
+          ' whitelist.txt > build/dlc-data/data/corp
+
+      - name: Build geosite_corp.dat (tag corp)
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --depth=1 https://github.com/v2fly/domain-list-community.git build/domain-list-community
+          pushd build/domain-list-community
+          go mod download
+
+          # Генерируем dlc.dat
+          go run ./ --datapath="${GITHUB_WORKSPACE}/build/dlc-data/data"
+
+          test -f dlc.dat
+          cp -f dlc.dat "${GITHUB_WORKSPACE}/build/geosite_corp.dat"
+          popd
+
+      - name: Build geoip_corp.dat (tag corp)
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --depth=1 https://github.com/v2fly/geoip.git build/geoip
+          pushd build/geoip
+          go mod download
+
+          cat > config.json <<'JSON'
+          {
+            "input": [
+              {
+                "type": "text",
+                "action": "add",
+                "args": {
+                  "name": "corp",
+                  "uri": "../ipcidr.txt"
+                }
+              }
+            ],
+            "output": [
+              {
+                "type": "v2rayGeoIPDat",
+                "args": {
+                  "outputDir": "../out"
+                }
+              }
+            ]
+          }
+          JSON
+
+          mkdir -p ../out
+          go run ./ -c config.json
+
+          test -f ../out/geoip.dat
+          cp -f ../out/geoip.dat "${GITHUB_WORKSPACE}/build/geoip_corp.dat"
+          popd
+
+      - name: Compute checksums
+        shell: bash
+        run: |
+          set -euo pipefail
+          (cd build && sha256sum geosite_corp.dat geoip_corp.dat > SHA256SUMS.txt)
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: corp-geodata-${{ github.run_number }}-${{ github.sha }}
+          name: corp geodata ${{ github.run_number }}
+          body: |
+            Automated corp geodata build from:
+            - whitelist.txt -> geosite_corp.dat (tag: corp)
+            - ip/cidr lists -> geoip_corp.dat (tag: corp)
+          files: |
+            build/geosite_corp.dat
+            build/geoip_corp.dat
+            build/SHA256SUMS.txt
