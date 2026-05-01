@@ -1,5 +1,22 @@
 # russia mobile internet whitelist
 
+### 🍺🍺🍺 donations
+
+<sup>BTC</sup>
+`bc1q5cws5mx9x784kwn3zj6uz0q9cvdpj65lzenv6v`
+
+<sup>SOL</sup>
+`5iB8p3tMEtAQ1qaCJNHyd5Fm74DsT6qjud9Gg7TAMr5T`
+
+<sup>ETH</sup>
+`0x98e52948c78707b2003deb550a63a4705afccc1a`
+
+<sup>USDT TON/just TON</sup>
+`UQChsyq45Myo46fGh5kolTvtYW6Oye5IVkpd7Pp3MLEagssV`
+
+<sup>USDT TRC20</sup>
+`TLvej81gMURc2xXNJSZo4S3Dmmax6AtqHK`
+
 <p align="center"><b>🇺🇸 please, star this repository so more people can see it.<br>🇷🇺 пожалуйста, поставьте звезду этому репозиторию, чтобы больше людей увидели его.<br>🇺🇦 будь ласка, поставте зірку цьому репозиторію, щоб більше людей побачили його.</b><br><br><em>🇺🇸 discord server: active help, community support, and huge amount of info that doesn't fit here.<br>🇷🇺 дискорд сервер: активная помощь, обсуждения и горы полезной инфы, которая не влезает в readme.<br>🇺🇦 діскорд сервер: активна допомога, обговорення та гори корисної інфи, яка не влізає в readme.</em><br><br><a href="https://discord.gg/QPBdMf8dxG"><img src="https://img.shields.io/discord/1282083082849091615?style=for-the-badge&logo=discord" alt="discord"></a></p>
 
 🇺🇸 a list of domains and ips that stay live in russia when the mobile internet gets "restricted".
@@ -158,7 +175,7 @@ this readme is just the tip of the iceberg. the discord is a chaotic but incredi
 #### як вижити: інструменти та стратегії
 
 **1. як зрозуміти, що вас зачепило?**
-*   `yandex.ru` працює? якщо так, зв'язок є.
+*   `yandex.ru` працює? якщо тк, зв'язок є.
 *   `2ip.ru` або `1.1.1.1` не працюють? якщо так — ви під вайтлістом.
 
 **2. рекомендовані клієнти та протоколи**
@@ -189,21 +206,4 @@ mit
 
 ---
 
-### 🍺🍺🍺 donations
-
-<sup>BTC</sup>
-`bc1q5cws5mx9x784kwn3zj6uz0q9cvdpj65lzenv6v`
-
-<sup>SOL</sup>
-`5iB8p3tMEtAQ1qaCJNHyd5Fm74DsT6qjud9Gg7TAMr5T`
-
-<sup>ETH</sup>
-`0x98e52948c78707b2003deb550a63a4705afccc1a`
-
-<a href="https://nowpayments.io/donation/hxehex" target="_blank" rel="noreferrer noopener">
-   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Cryptocurrency & Bitcoin donation button by NOWPayments">
-</a>
-
-### ⭐⭐⭐ star history
-
-<a href="https://www.star-history.com/#hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&theme=dark&legend=top-left" /><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left" /><img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left" /></picture></a>
+date&legend=top-left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&theme=dark&legend=top-left" /><source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left" /><img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hxehex/russia-mobile-internet-whitelist&type=date&legend=top-left" /></picture></a>
