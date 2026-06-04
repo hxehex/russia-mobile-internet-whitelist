@@ -6,7 +6,7 @@
 `bc1q5cws5mx9x784kwn3zj6uz0q9cvdpj65lzenv6v`
 
 <sup>SOL</sup>
-`5iB8p3tMEtAQ1qaCJNHyd5Fm74DsT6qjud9Gg7TAMr5T`
+`3UTz412qPLAjNJSbRCzbs1CSMQRwXNnSXhct6twmhY6J`
 
 <sup>ETH</sup>
 `0x98e52948c78707b2003deb550a63a4705afccc1a`
