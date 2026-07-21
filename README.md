@@ -66,7 +66,7 @@ it's simple. open a terminal or a browser.
 **2. recommended clients & protocols**
 your best bets are **vless** or **trojan**. always use encryption (reality/tls).
 *   **ios:** streisand, happ.
-*   **android:** husi, v2rayng.
+*   **android:** husi, v2rayng, lxbox.
 *   **pc (windows / linux):** throne, or nekobox (specifically the fork by **qr243vbi**). **warning: the original nekobox is abandoned and outdated, do not use it!**
 *   **ipv6?** forget it. russian mobile operators are greedy and haven't invested in ipv6 infrastructure. nobody has tested whitelisting on it.
 
@@ -125,7 +125,7 @@ this readme is just the tip of the iceberg. the discord is a chaotic but incredi
 **2. рекомендуемые клиенты и протоколы**
 лучший выбор — **vless** или **trojan**. всегда используйте шифрование (reality/tls).
 *   **ios:** streisand, happ.
-*   **android:** husi, v2rayng.
+*   **android:** husi, v2rayng, lxbox.
 *   **пк (windows / linux):** throne или nekobox (а именно форк от **qr243vbi**). **внимание: оригинальный nekobox заброшен и устарел, не используйте его!**
 *   **а что с ipv6?** забудьте. мобильные операторы в россии жадные и не вкладывались в ipv6. вайтлистинг на нём никто не проверял.
 
@@ -181,7 +181,7 @@ this readme is just the tip of the iceberg. the discord is a chaotic but incredi
 **2. рекомендовані клієнти та протоколи**
 найкращий вибір — **vless** або **trojan**. завжди використовуйте шифрування (reality/tls).
 *   **ios:** streisand, happ.
-*   **android:** husi, v2rayng.
+*   **android:** husi, v2rayng, lxbox.
 *   **пк (windows / linux):** throne або nekobox (форк від **qr243vbi**). **увага: оригінальний nekobox застарів, не використовуйте його!**
 
 **3. ваші варіанти**
