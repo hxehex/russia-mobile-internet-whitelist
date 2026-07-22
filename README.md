@@ -206,8 +206,6 @@ mit
 
 ---
 
-## Star History
-
 <a href="https://www.star-history.com/?repos=hxehex%2Frussia-mobile-internet-whitelist&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=hxehex/russia-mobile-internet-whitelist&type=date&theme=dark&legend=top-left&sealed_token=1rlZmejkltdFGdbNWMSBbfI0SO8aLjEtinfIc4uLuDI0BPh5Xakx-y4aNNY5FKlBCgAYY5Tdn9ilomK_Ao_pIabdgyiXzTP8-HH9WM2enBV1o-EAWlKmbARrCXJnMZ_GG_lqEvvxUHpXwEFCPZtUAjFl7UqfV1kzK0rIqnkUut580XtJqc7N22o49nMt" />
