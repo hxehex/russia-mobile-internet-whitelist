@@ -376,6 +376,7 @@ id.tau.vk.ru
 id.tbank.ru
 id.vk.ru
 imgproxy.cdn-tinkoff.ru
+imgsmail.ru
 imperia.mail.ru
 informer.yandex.ru
 infra.mail.ru
@@ -593,6 +594,7 @@ sochisirius.ru
 souz.mail.ru
 speller.yandex.net
 sphere.mail.ru
+sportmail.ru
 sport.mail.ru
 sso-app4.vtb.ru
 sso-app5.vtb.ru
