@@ -17,7 +17,7 @@
 <sup>USDT TRC20</sup>
 `TLvej81gMURc2xXNJSZo4S3Dmmax6AtqHK`
 
-<p align="center"><b>🇺🇸 please, star this repository so more people can see it.<br>🇷🇺 пожалуйста, поставьте звезду этому репозиторию, чтобы больше людей увидели его.<br>🇺🇦 будь ласка, поставте зірку цьому репозиторію, щоб більше людей побачили його.</b><br><br><em>🇺🇸 discord server: active help, community support, and huge amount of info that doesn't fit here.<br>🇷🇺 дискорд сервер: активная помощь, обсуждения и горы полезной инфы, которая не влезает в readme.<br>🇺🇦 діскорд сервер: активна допомога, обговорення та гори корисної інфи, яка не влізає в readme.</em><br><br><a href="https://discord.gg/QPBdMf8dxG"><img src="https://img.shields.io/discord/1282083082849091615?style=for-the-badge&logo=discord" alt="discord"></a></p>
+<p align="center"><b>🇺🇸 please, star this repository so more people can see it.<br>🇷🇺 пожалуйста, поставьте звезду этому репозиторию, чтобы больше людей увидели его.<br>🇺🇦 будь ласка, поставте зірку цьому репозиторію, щоб більше людей побачили його.</b><br><br><em>🇺🇸 discord server: active help, community support, and huge amount of info that doesn't fit here.<br>🇷🇺 дискорд сервер: активная помощь, обсуждения и горы полезной инфы, которая не влезает в readme.<br>🇺🇦 діскорд сервер: активна допомога, обговорення та гори корисної інфи, яка не влізає в readme.</em><br><br><a href="https://discord.gg/5GFxX54bq8"><img src="https://img.shields.io/discord/1529160794032308315?style=for-the-badge&logo=discord" alt="discord"></a></p>
 
 🇺🇸 a list of domains and ips that stay live in russia when the mobile internet gets "restricted".
 <br>
